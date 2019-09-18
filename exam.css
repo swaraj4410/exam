@@ -1,0 +1,68 @@
+body {
+	font-size: 16px;
+}
+
+main {
+	width: 100%;
+	margin: 10px auto 10px 20px;
+	font-size: 16px;
+	line-height: 1.2em;
+}
+h3 {
+	text-align: center;
+}
+
+section {
+	position: relative;
+	margin: 5px 10px 5px 20px;
+
+}
+section.note {
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.note h3 {
+	margin-left: 20px;
+	display: inline-block;
+	text-align: left;
+	font-size: 1.3em;
+}
+
+.note li {
+	font-size: 1.2em;
+	
+}
+
+p {
+	font-size: 1.3em;
+}
+
+h4 {
+	font-size: 1.5em;
+}
+
+section.match table{
+	width: 75%;
+
+}
+
+section.match td {
+	font-size: 1.3em;
+}
+ 
+ section.match td.th {
+ 	font-size: 1.32em;
+ 	text-align: center;
+ 	text-decoration: underline;
+ }
+
+ td {
+ 	text-align: center;
+ }
+
+ h3.side {
+ 	text-align: right;
+ 	margin-right: 100px;
+ } 
